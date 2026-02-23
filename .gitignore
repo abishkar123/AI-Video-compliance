@@ -45,3 +45,8 @@ ehthumbs.db
 *.bak
 *.swp
 *~
+
+# Project specific
+backend/data/
+node_modules/
+.ipynb_checkpoints/
